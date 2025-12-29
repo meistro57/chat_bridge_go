@@ -30,7 +30,7 @@ A beautiful, high-performance chat bridge that enables conversations between AI 
 
 ```bash
 # Linux/macOS
-curl -L https://github.com/markjamesm/chat-bridge-go/releases/latest/download/chat-bridge-linux-amd64 -o chat-bridge
+curl -L https://github.com/meistro57/chat-bridge-go/releases/latest/download/chat-bridge-linux-amd64 -o chat-bridge
 chmod +x chat-bridge
 sudo mv chat-bridge /usr/local/bin/
 ```
@@ -39,7 +39,7 @@ sudo mv chat-bridge /usr/local/bin/
 
 ```bash
 # Clone the repository
-git clone https://github.com/markjamesm/chat-bridge-go
+git clone https://github.com/meistro57/chat-bridge-go
 cd chat-bridge-go
 
 # Build
